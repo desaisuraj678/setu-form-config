@@ -1,5 +1,3 @@
-Here's the complete content of the README file without any code block or file wrapper, so you can easily copy it:
-
 # Dynamic Form Renderer
 
 ## Running the Application
