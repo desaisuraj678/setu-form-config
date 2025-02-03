@@ -52,7 +52,6 @@ const sampleConfig: FormConfig = {
 export default function Home() {
   const handleSubmit = (formData: FormState) => {
     console.log("Form submitted:", formData)
-    // Here you would typically send the data to a server or perform other actions
   }
 
   return (
